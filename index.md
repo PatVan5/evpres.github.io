@@ -12,8 +12,6 @@ permalink: /
     <br>
 -->
 
-<img src="/images/website_photo.jpg"/>
-    <br>
 In September 2024, the project "Evaluation of Prestressing Forces in Prestressed Concrete Bridges," with the acronym EvPres, was supported. The project received additional backing under the General Call 2023 from the Slovak Research and Development Agency. The research team includes scientists from the Faculty of Civil Engineering, Institute of Structural Engineering and Transportation Structures, as well as from the Faculty of Electrical Engineering and Informatics, from the Department of Computers and Informatics of Technical University of Košice, Slovakia, thus combining expertise in civil engineering and computer sciences.
 
 ## What urgent problem does the project address?
