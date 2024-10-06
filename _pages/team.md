@@ -1,301 +1,170 @@
 ---
-title: Team members
+title: Research team
 permalink: /team/
 ---
 
-### Principal investigator - TUKE
+<div style="line-height: 1.2;">
+<b><u>Daniel Dubecký</u></b>
+<br>
+Researcher
+<br>
+Center of Research and Innovation in Construction
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:daniel.dubecky@tuke.sk">Email: daniel.dubecky@tuke.sk</a>
 
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/jan.jpg" width="200"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://kpi.fei.tuke.sk/en/person/jan-perhac"><b>Ján Perháč</b></a>
-        <p style="line-height: 1;">
-        Assistant Professor
-        <br>    
-        Department of Computers and Informatics
-        <br>
-        Faculty of Electrical Engineering and Informatics
-        <br>
-        Technical University of Košice
-        <br>   
-        Letná 9
-        <br>    
-        042 00 Košice
-        <br>    
-        Slovak Republic
-        <br>
-        <a href="mailto:jan.perhac@tuke.sk">Email: jan.perhac@tuke.sk</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-</thead>
-</table>
+<br><br>
 
-### Principal investigators - UiO
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/michael.jpeg" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://www.mn.uio.no/ifi/english/people/aca/michakt/index.html"><b>Michael Kirkedal Thomsen</b></a>
-        <p style="line-height: 1;">
-        Associate Professor
-        <br>      
-        Department of Informatics
-        <br>
-        Faculty of Mathematics and Natural Sciences
-        <br>
-        University of Oslo
-        <br>   
-        Ole-Johan Dahls Building
-        <br>        
-        Gaustadalleén 23B
-        <br>    
-        0373 Oslo
-        <br>    
-        Norway
-        <br>
-        <a href="mailto:michakt@ifi.uio.no">Email: michakt@ifi.uio.no</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-    <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/joachim.jpeg" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://www.mn.uio.no/ifi/english/people/aca/joachkr/"><b>Joachim Tilsted Kristensen</b></a>
-        <p style="line-height: 1;">
-        PhD Student
-        <br>    
-        Department of Informatics
-        <br>
-        Faculty of Mathematics and Natural Sciences
-        <br>
-        University of Oslo
-        <br>   
-        Ole-Johan Dahls Building
-        <br>        
-        Gaustadalleén 23B
-        <br>    
-        0373 Oslo
-        <br>    
-        Norway
-        <br>
-        <a href="mailto:joachkr@ifi.uio.no">Email: joachkr@ifi.uio.no</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-</thead>
-</table>
+<b><u>Lukáš Kapolka</u></b>
+<br>
+Assistant Professor
+<br>
+Department of Load Bearing Structures and Intelligent Adaptive Structures
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:lukas.kapolka@tuke.sk">Email: lukas.kapolka@tuke.sk</a>
 
-### Team Members
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial,
- sans-serif;font-size:20px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/user.gif" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://kpi.fei.tuke.sk/en/person/sergej-chodarev"><b>Sergej Chodarev</b></a>
-        <p style="line-height: 1;">
-        Assistant Professor
-        <br>    
-        Department of Computers and Informatics
-        <br>
-        Faculty of Electrical Engineering and Informatics
-        <br>
-        Technical University of Košice
-        <br>   
-        Letná 9
-        <br>    
-        042 00 Košice
-        <br>    
-        Slovak Republic
-        <br>
-        <a href="mailto:sergej.chodarev@tuke.sk">Email: sergej.chodarev@tuke.sk</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-    <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/eric.jpeg" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://www.mn.uio.no/ifi/english/people/aca/ericbj/"><b>Eric Bartley Jul</b></a>
-        <p style="line-height: 1;">
-        Professor
-        <br>    
-        Department of Informatics
-        <br>
-        Faculty of Mathematics and Natural Sciences
-        <br>
-        University of Oslo
-        <br>   
-        Ole-Johan Dahls Building
-        <br>        
-        Gaustadalleén 23B
-        <br>    
-        0373 Oslo
-        <br>    
-        Norway
-        <br>
-        <a href="mailto:ericbj@ifi.uio.no">Email: ericbj@ifi.uio.no</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-    <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/novitzka.jpeg" width="130"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://kpi.fei.tuke.sk/en/person/valerie-novitzka"><b>Valerie Novitzká</b></a>
-        <p style="line-height: 1;">
-        Professor
-        <br>    
-        Department of Computers and Informatics
-        <br>
-        Faculty of Electrical Engineering and Informatics
-        <br>
-        Technical University of Košice
-        <br>   
-        Letná 9
-        <br>    
-        042 00 Košice
-        <br>    
-        Slovak Republic
-        <br>
-        <a href="mailto:valerie.novitzka@tuke.sk">Email: valerie.novitzka@tuke.sk</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-    <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/user.gif" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://kpi.fei.tuke.sk/en/user/11125"><b>Samuel Novotný</b></a>
-        <p style="line-height: 1;">
-        PhD Student
-        <br>    
-        Department of Computers and Informatics
-        <br>
-        Faculty of Electrical Engineering and Informatics
-        <br>
-        Technical University of Košice
-        <br>   
-        Letná 9
-        <br>    
-        042 00 Košice
-        <br>    
-        Slovak Republic
-        <br>
-        <a href="mailto:samuel.novotny@tuke.sk">Email: samuel.novotny@tuke.sk</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-      <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/user.gif" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://kpi.fei.tuke.sk/en/person/william-steingartner"><b>William Steingartner</b></a>
-        <p style="line-height: 1;">
-        Associate Professor
-        <br>    
-        Department of Computers and Informatics
-        <br>
-        Faculty of Electrical Engineering and Informatics
-        <br>
-        Technical University of Košice
-        <br>   
-        Letná 9
-        <br>    
-        042 00 Košice
-        <br>    
-        Slovak Republic
-        <br>
-        <a href="mailto:william.steingartner@tuke.sk">Email: william.steingartner@tuke.sk</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-      <tr>
-    <td class="tg-oe15">
-        <img src="/images/team/lars.jpeg" width="160"/>
-    </td>
-    <td class="tg-oe15">
-        <body>
-        <a href="https://www.mn.uio.no
-/ifi/english/?vrtx=person-view&uid=larsvad"><b>Lars Vadgaard</b></a>
-        <p style="line-height: 1;">
-        PhD Student
-        <br>    
-        Department of Informatics
-        <br>
-        Faculty of Mathematics and Natural Sciences
-        <br>
-        University of Oslo
-        <br>   
-        Ole-Johan Dahls Building
-        <br>        
-        Gaustadalleén 23B
-        <br>    
-        0373 Oslo
-        <br>    
-        Norway
-        <br>
-        <a href="mailto:larsvad@ifi.uio.no">Email: larsvad@ifi.uio.no</a>
-        </p>
-        </body>
-    </td>
-  </tr>
-</thead>
-</table>
+<br><br>
+
+<b><u>Eva Kormaníková</u></b>
+<br>
+Professor
+<br>
+Department of Structural Mechanics
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:eva.kormanikova@tuke.sk">Email: eva.kormanikova@tuke.sk</a>
+
+<br><br>
+
+<b><u>Štefan Kušnír</u></b>
+<br>
+Assistant Professor
+<br>
+Department of Load Bearing Structures and Intelligent Adaptive Structures
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:stefan.kusnir@tuke.sk">Email: stefan.kusnir@tuke.sk</a>
+
+<br><br>
+
+<b><u>Vincent Kvočák</u></b>
+<br>
+Professor
+<br>
+Department of Load Bearing Structures and Intelligent Adaptive Structures
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:vincent.kvocak@tuke.sk">Email: vincent.kvocak@tuke.sk</a>
+
+<br><br>
+
+<b><u>Peter Orolin</u></b>
+<br>
+Researcher
+<br>
+Center of Research and Innovation in Construction
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:peter.orolin@tuke.sk">Email: peter.orolin@tuke.sk</a>
+
+<br><br>
+
+<a href="https://kpi.fei.tuke.sk/en/person/jan-perhac"><b>Ján Perháč</b></a>
+<br>
+Assistant Professor
+<br>
+Department of Computers and Informatics
+<br>
+Faculty of Electrical Engineering and Informatics
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:jan.perhac@tuke.sk">Email: jan.perhac@tuke.sk</a>
+
+<br><br>
+
+<b><u>Peter Sabol</u></b>
+<br>
+Head of Center of Research and Innovation in Construction
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:peter.sabol@tuke.sk">Email: peter.sabol@tuke.sk</a>
+
+<br><br>
+
+<b><u>Csaba Szabó</u></b>
+<br>
+Associate Professor
+<br>
+Department of Computers and Informatics
+<br>
+Faculty of Electrical Engineering and Informatics
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:csaba.szabo@tuke.sk">Email: csaba.szabo@tuke.sk</a>
+
+<br><br>
+
+<b><u>Patrícia Vaňová</u></b>
+<br>
+Assistant Professor
+<br>
+Department of Load Bearing Structures and Intelligent Adaptive Structures
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:patricia.vanova@tuke.sk">Email: patricia.vanova@tuke.sk</a>
+
+<br><br>
+
+<b><u>Michala Weissová</u></b>
+<br>
+PhD student
+<br>
+Department of Load Bearing Structures and Intelligent Adaptive Structures
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:michala.weissova@tuke.sk">Email: michala.weissova@tuke.sk</a>
+</div>
+
 

@@ -1,15 +1,10 @@
 main:
-  - title: "Nástroj"
-    url: /tool/
-  - title: "Stretnutia"
-    url: /meetings/
-  - title: "Výstupy"
-    url: /deliverables/
-  - title: "Výučba"
-    url: /teaching/
-  - title: "Členovia tímu"
-    url: /team/
+main:
   - title: "O projekte"
     url: /about/
+  - title: "Výskumné ciele"
+    url: /objectives/
+  - title: "Výskumný tím"
+    url: /team/
   - title: "Kontakt"
     url: /contact/

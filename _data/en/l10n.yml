@@ -1,43 +1,39 @@
-title: "OnlineProver"
+title: "EvPres"
 
-pagetitle: "OnlineProver"
+pagetitle: "EvPres"
 
 lang_name: English
 
 author:
   bio: >-
-    **Modern Approaches and Tools for Teaching Classes at the University Level in Theoretical Computer Science Courses of Logic, Types, and Semantics** 
-    <br> 
-    Initiative no: **FBR-PDI-025** <br>
+    **Evaluation of prestressing forces in prestressed concrete bridges** 
     <br>    
-    <img src="/images/EEA-and-Norway_grants.png"/>
+    <br>    
+    <img src="/images/evpres_logo_biele.png"/>
     <br>
-    <br>
-    Working together for a green, competitive and inclusive Europe
+      This project has been supported by the Slovak Research and Development Agency under the contract No. **APVV-23-0196**
+    <br> 
   links:
-    - label: "EEA and Norway Grants"
-      url: "https://www.eeagrants.sk/en/"
-    - label: "onlineprover.com"
-      url: "http://onlineprover.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/onlineprover/"
     - label: "TUKE"
       url: "https://www.tuke.sk/"
-    - label: "UiO"
-      url: "https://www.uio.no/english/index.html"
+    - label: "APVV"
+      url: "https://www.apvv.sk/"    
+    - label: "LinkedIN"
+      url: "https://www.linkedin.com/company/evpres/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/EvPres/"
 
 
 footer:
   links:
-    - label: "EEA and Norway Grants"
-      url: "https://www.eeagrants.sk/en/"
-    - label: "onlineprover.com"
-      url: "http://onlineprover.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/onlineprover/"
     - label: "TUKE"
       url: "https://www.tuke.sk/"
-    - label: "UiO"
-      url: "https://www.uio.no/english/index.html"
+    - label: "APVV"
+      url: "https://www.apvv.sk/"    
+    - label: "LinkedIN"
+      url: "https://www.linkedin.com/company/evpres/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/EvPres/"
+

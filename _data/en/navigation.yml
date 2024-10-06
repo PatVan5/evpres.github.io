@@ -1,15 +1,9 @@
 main:
-  - title: "Tool"
-    url: /tool/
-  - title: "Meetings"
-    url: /meetings/
-  - title: "Deliverables"
-    url: /deliverables/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Our team"
-    url: /team/
   - title: "About"
     url: /about/
+  - title: "Research objectives"
+    url: /objectives/
+  - title: "Research team"
+    url: /team/
   - title: "Contact"
     url: /contact/

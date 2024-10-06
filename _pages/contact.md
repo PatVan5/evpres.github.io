@@ -3,51 +3,26 @@ title: Contact
 permalink: /contact/
 ---
 
-**Contact person responsible for the initiative (TUKE):**
-- [Ján Perháč](https://kpi.fei.tuke.sk/en/person/jan-perhac) <jan.perhac@tuke.sk>
+## Pricnipal investigator
 <body>
-    <p style="line-height: 1;">
-    Department of Computers and Informatics
-    <br>
-    Faculty of Electrical Engineering and Informatics
-    <br>
-    Technical University of Košice
-    <br>   
-    Letná 9
-    <br>    
-    042 00 Košice
-    <br>    
-    Slovak Republic
-    <br>
-    <br>
-    <img src="/images/tuke_logo.png" width="300"/>
-    </p>
-</body>
-
-
-
-**Contact persons (UiO)**
-- [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/) <joachkr@ifi.uio.no>
-- [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/index.html) <m.kirkedal@di.ku.dk>
-<body>
-    <p style="line-height: 1;">
-    Department of Informatics
-    <br>
-    Faculty of Mathematics and Natural Sciences
-    <br>
-    The University of Oslo
-    <br>   
-    Ole-Johan Dahls Building
-    <br>        
-    Gaustadalleén 23B
-    <br>    
-    0373 Oslo
-    <br>    
-    Norway
-    <br>
-    <br>
-    <img src="/images/uio-logo-no.jpg" width="350"/>
-    </p>
+    <p style="line-height: 1.3;">
+<b>Patrícia Vaňová</b>
+<br>
+<a href="mailto:patricia.vanova@tuke.sk">Email: patricia.vanova@tuke.sk</a>
+<br>
+<a href="tel:+421 55 602 4254">Call: +421 55 602 4254</a>
+<br>
+<i> Department of Load Bearing Structures and Intelligent Adaptive Structures </i>
+<br>
+<i> Institute of Structural Engineering and Transportation Structures </i>
+<br>
+<i> Faculty of Civil Engineering </i>
+<br>
+<i> Technical University of Košice </i>
+<br>
+<br>
+<img src="/images/tuke_logo.png" width="300"/>
+</p>
 </body>
 
 
