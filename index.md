@@ -20,4 +20,5 @@ The loss of prestress in prestressed concrete bridges, caused by the corrosion o
 
 As many prestressed concrete bridges in Europe are approaching the end of their service life, it is crucial to develop a methodology for accurately quantifying the prestressing forces in existing structures. This step aligns with the United Nations' Sustainable Development Goal 9, specifically Target 9.4, which focuses on modernizing infrastructure by 2030 with greater resource efficiency.
 
+
 Currently, various indirect methods are used for maintaining prestressed concrete bridges. However, to ensure their safety throughout their lifespan, an ideal solution would involve implementing a direct monitoring method. Structural Health Monitoring (SHM) is a relatively new field that measures various responses of a bridge structure and assesses its technical condition. However, current SHM methods for determining prestressing forces are insufficient, necessitating further research and development of more effective solutions.
