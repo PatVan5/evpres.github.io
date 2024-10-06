@@ -1,4 +1,4 @@
-Online Prover Project Website
+EvPres Project Website
 =============================
 
 ## Local Build
