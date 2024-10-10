@@ -9,5 +9,5 @@ Cieľom projektu EvPres je vyvinúť metodiku monitorovania stavu mostov, ktorá
 V rámci súčasného stavu poznania v oblasti kvantifikácie predpínacích síl v predpätých betónových mostoch boli identifikované tri hlavné výskumné medzery (RG):
 
 - **RG1**: Nedostatok pokročilých numerických modelov/digitálnych dvojčiat predpätých betónových nosníkov a predpätých betónových mostov.
-- **RG2**: Nedostatočne rozvinuté metodológie pre SHM na kvantifikáciu predpínacích síl v predpätých betónových mostoch.
+- **RG2**: Nedostatočne rozvinuté metodológie pre SHM na kvantifikáciu predpínacích síl v predpätých betónových mostoch. 
 - **RG3**: Absencia jednotnej metodológie na určenie predpínacích síl v predpätých betónových mostoch.
